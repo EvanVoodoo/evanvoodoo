@@ -1,21 +1,21 @@
 <div>
-    <h1 align="center">
+    <h2 align="center">
         Welcome to my GitHub Profile!
-    </h1>
+    </h2>
 </div>
 
 <div align="left">
-    <h2>
+    <h3>
         Stats
-    </h2>
+    </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanvoodoo&show_icons=true&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&icon_color=564295&border_color=d5e6cb)
 </div>
 
 <div align="right">
-    <h2>
+    <h3>
         Languages and Tools
-    </h2>
+    </h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img
 			align="center"
