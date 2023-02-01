@@ -9,7 +9,7 @@
         Stats
     </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evanvoodoo&langs_count=5&layout=compact&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&border_color=d5e6cbt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evanvoodoo&langs_count=5&layout=compact&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&border_color=d5e6cb)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanvoodoo&show_icons=true&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&icon_color=564295&border_color=d5e6cb)
 </div>
