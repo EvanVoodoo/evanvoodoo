@@ -16,6 +16,14 @@
     <h3>
         Languages and Tools
     </h3>
+    <a href="https://www.cplusplus.com/" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            width="50"
+            height="50"
+            alt="C++" />
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img
 			align="center"
