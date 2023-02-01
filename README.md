@@ -1,23 +1,34 @@
-<div>
-    <h2 align="center">
-        Welcome to my GitHub Profile!
-    </h2>
-</div>
+<div align="center">
+	
+<h2 align="center">
+	Welcome to my GitHub Profile!
+</h2>
+<h3>
+	About Me
+</h3>
+<p>
+	I am a 19 year-old, partially self-taught programmer. I am French, with Beninese roots. I attended an international school for 11 years in the Netherlands, so I speak fluent English and French, and speak Dutch at an advanced level.
+</p>
 
-<div align="left">
-    <h3>
-        Stats
-    </h3>
-
+<table>
+	<tr>
+		<th><h3>
+			Stats
+		</h3></th>
+		<th><h3>
+        Languages and Tools
+    	</h3></th>
+	</tr>
+	<tr>
+		<th>
+			<div align="left">
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evanvoodoo&langs_count=5&layout=compact&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&border_color=d5e6cb)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanvoodoo&show_icons=true&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&icon_color=564295&border_color=d5e6cb)
-</div>
-
-<div align="right">
-    <h3>
-        Languages and Tools
-    </h3>
+</div></th>
+		<th>
+			<div align="right">
     <a href="https://www.cplusplus.com/" target="_blank">
         <img
             align="center"
@@ -78,6 +89,10 @@
             height="50"
             alt="Flutter" />
     </a>
+</div></th>
+	</tr>
+</table>
+	
 </div>
 <!--
 **EvanVoodoo/evanvoodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
