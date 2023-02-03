@@ -7,7 +7,7 @@
 	About Me
 </h3>
 <p>
-	I am a 19 year-old, partially self-taught programmer. I am French, with Beninese roots. I attended an international school for 11 years in the Netherlands, so I speak fluent English and French, and speak Dutch at an advanced level.
+	I am a 19 year-old, partially self-taught programmer. I am French, originating from Benin. I attended an international school for 11 years in the Netherlands, so I speak fluent English and French, and speak Dutch at an advanced level.
 </p>
 
 <table>
@@ -43,6 +43,14 @@
 						width="50"
 						height="50"
 						alt="C++" />
+				</a>&nbsp;
+				<a href="https://www.java.com/" target="_blank">
+					<img
+						align="center"
+						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+						width="50"
+						height="50"
+						alt="Java" />
 				</a>&nbsp;
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 					<img
