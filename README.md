@@ -7,7 +7,7 @@
 	About Me
 </h3>
 <p>
-	I am a 20 year-old programmer. French, originating from Benin. I attended an international school for 11 years in the Netherlands, so I speak fluent English and French, and speak Dutch at an advanced level.
+	I am a 20 year-old programmer. French, originating from Benin. Fluent in English, French and Yapanese. Also Dutch at an advanced level.
 </p>
 
 <table>
