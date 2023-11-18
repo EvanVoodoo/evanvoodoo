@@ -36,74 +36,56 @@
 	<tr>
 		<th>
 			<div align="center">
-				<a href="https://www.cplusplus.com/" target="_blank">
-					<img
-						align="center"
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-						width="50"
-						height="50"
-						alt="C++" />
-				</a>&nbsp;
-				<a href="https://www.java.com/" target="_blank">
-					<img
-						align="center"
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-						width="50"
-						height="50"
-						alt="Java" />
-				</a>&nbsp;
-				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-					<img
-						align="center"
-						margin="100px"
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-						height="50"
-						alt="JavaScript" />
-				</a>&nbsp;
-				<a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-					<img
-						align="center"
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-						height="50"
-						alt="HTML" />
-				</a>&nbsp;
-				<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-					<img
-						align="center"
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-						height="50"
-						alt="CSS" />
-				</a>&nbsp;
-				<a href="https://dart.dev" target="_blank">
-					<img
-						align="center"
-						src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"
-						height="50"
-						alt="Dart" />
-				</a>
+				<img
+					align="center"
+					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+					width="50"
+					height="50"
+					alt="C++" />&nbsp;
+				<img
+					align="center"
+					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+					width="50"
+					height="50"
+					alt="Java" />&nbsp;
+				<img
+					align="center"
+					margin="100px"
+					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+					height="50"
+					alt="JavaScript" />&nbsp;
+				<img
+					align="center"
+					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+					height="50"
+					alt="HTML" />&nbsp;
+				<img
+					align="center"
+					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+					height="50"
+					alt="CSS" />&nbsp;
+				<img
+					align="center"
+					src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"
+					height="50"
+					alt="Dart" />
 				<br>
 				<br>
-				<a href="https://git-scm.com" target="_blank">
-					<img
-						align="center"
-						src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
-						height="50"
-						alt="Git" />
-				</a>&nbsp;
-				<a href="https://unity.com" target="_blank">
-					<img
-						align="center"
-						src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"
-						height="50"
-						alt="Unity" />
-				</a>&nbsp;
-				<a href="https://flutter.dev" target="_blank">
-					<img
-						align="center"
-						src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg"
-						height="50"
-						alt="Flutter" />
-				</a>
+				<img
+					align="center"
+					src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
+					height="50"
+					alt="Git" />&nbsp;
+				<img
+					align="center"
+					src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"
+					height="50"
+					alt="Unity" />&nbsp;
+				<img
+					align="center"
+					src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg"
+					height="50"
+					alt="Flutter" />
 			</div>
 		</th>
 	</tr>
