@@ -7,7 +7,7 @@
 	About Me
 </h3>
 <p>
-	I am a 20 year-old programmer. French, originating from Benin. Fluent in English, French and Yapanese. Also Dutch at an advanced level.
+	20 year-old, 1st year CMGT student at BUAS.
 </p>
 
 <table>
