@@ -7,7 +7,7 @@
 	About Me
 </h3>
 <p>
-	20 year-old, 1st year CMGT student at BUAS.
+	3rd year game programming student, specializing in Graphics & Tools at BUas.
 </p>
 
 <table>
