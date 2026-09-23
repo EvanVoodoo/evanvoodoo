@@ -7,7 +7,7 @@
 	About Me
 </h3>
 <p>
-	3rd year game programming student, specializing in Graphics & Tools at BUas.
+	4th year game programming student, specializing in Graphics & Tools at BUas.
 </p>
 
 <table>
