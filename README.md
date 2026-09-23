@@ -19,13 +19,17 @@
 	<tr>
 		<th>
 			<div align="center">
-				<a href="https://github.com/anuraghazra/github-readme-stats">
-  					<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanvoodoo&langs_count=5&layout=compact&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&border_color=d5e6cb" />
-				</a>
-				<a href="https://github.com/anuraghazra/github-readme-stats">
-  					<img align="center" height="200"src="https://github-readme-stats.vercel.app/api?username=evanvoodoo&show_icons=true&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&icon_color=564295&border_color=d5e6cb" />
+				<a href="https://github.com/stats-organization/github-stats-extended">
+  					<img align="center" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=evanvoodoo&langs_count=5&layout=compact&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&border_color=d5e6cb" />
 				</a>
 			</div>
+			<br>
+			<div align="center">
+				<a href="https://github.com/stats-organization/github-stats-extended">
+  					<img align="center" height="200"src="https://github-stats-extended.vercel.app/api?username=evanvoodoo&show_icons=true&theme=radical&border_radius=18&bg_color=1b1b1b&text_color=9594c0&title_color=d5e6cb&icon_color=564295&border_color=d5e6cb" />
+				</a>
+			</div>
+			<br>
 		</th>
 	</tr>
 	<tr>
